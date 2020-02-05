@@ -1,6 +1,6 @@
 FROM alpine
 
-ARG helm_version=v3.0.0
+ARG helm_version=v3.0.3
 ARG helm_os=linux
 ARG helm_arch=amd64
 
